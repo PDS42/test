@@ -2,7 +2,7 @@ This test can be executed with the following command: `npm install && node index
 
 A few thoughts I'd like to share on this:
 
-- You will notice that I've commited my '.env' file & my private key. Those are obviously not things you would want to commit, but for the sake of the test, they need to be here.
+- You will notice that I've commited my `.env` file & my private key. Those are obviously not things you would want to commit, but for the sake of the test, they need to be here.
 
 - I've struggled early on, because I thought I'd be able to tackle this test using API calls only.
 After quite some time & digging, I've realised that I would need to open a browser to get my authorization code at some point.
