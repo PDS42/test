@@ -12,6 +12,6 @@ It was a fun experience, and I learned a lot !
 
 - As Pola mentionned that I shouldn't be spending days on this, I chose to not add tests, and proper error handling (as they would be in a real application).
 I'd be happy to discuss their potential implementation with you, as well as some tips on what I could have done better.
-I'm always looking to improving & getting feedback, so this would be much appreciated!
+I'm always looking to improving & getting feedback, so this would be much appreciated, regardless of what happens next!
 
 To give you an idea, I've spent around 1 full day on this, maybe a couple more hours (I still had to work on my current job).
